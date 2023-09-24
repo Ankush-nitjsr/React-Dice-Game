@@ -68,7 +68,7 @@ Error generating stack: `+o.message+`
         border: 1px solid transparent;
         color: white;
     }
-`;function xm({toggle:e}){return R.jsxs(Em,{children:[R.jsx("div",{children:R.jsx("img",{src:"../images/dices.png"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"Dice Game"}),R.jsx(Hu,{onClick:e,children:"Play Now"})]})]})}const Em=be.div`
+`;function xm({toggle:e}){return R.jsxs(Em,{children:[R.jsx("div",{children:R.jsx("img",{src:"./../images/dices.png"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"Dice Game"}),R.jsx(Hu,{onClick:e,children:"Play Now"})]})]})}const Em=be.div`
     max-width: 1180px;
     display: flex;
     margin: 0 auto;
